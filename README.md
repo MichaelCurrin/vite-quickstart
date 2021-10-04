@@ -27,6 +27,13 @@ For links and info, see [Vite](https://michaelcurrin.github.io/dev-resources/res
 
 This project is a vanilla app (no frontend framework) to keep the emphasis on Vite and simplicity. And uses TypeScript to showcase that feature.
 
+### Structure
+
+- [src](/src/) for TypeScript and CSS.
+- [index.html](/index.html) for webpage. When the build runs, the reference to `/src/main.ts` will be replaced with `/assets/index.ad4f7fa4.js` and a line will be added for the CSS file.
+- [tsconfig.json](/tsconfig.json) for TypeScript.
+- `dist` - output directory for HTML and assets (plain JS, CSS, and images).
+
 
 ## License
 
