@@ -8,7 +8,7 @@
 ## Preview
 
 <div align="center">
-    <img src="/sample.png" alt="Sample screenshot" width="300">
+    <img src="/sample.png" alt="Sample screenshot" width="400">
 </div>
 
 <br>
