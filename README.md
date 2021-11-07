@@ -8,7 +8,7 @@
 ## Preview
 
 <div align="center">
-    <img src="/sample.png" alt="Sample screenshot" width="400">
+    <img src="/sample.png" alt="Sample screenshot" width="500">
 </div>
 
 <br>
@@ -25,7 +25,7 @@
 
 For links and info, see [Vite](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/vite/) in Dev Resources.
 
-This project is a vanilla app (no frontend framework) to keep the emphasis on Vite and simplicity. And uses TypeScript to showcase that feature.
+This project is a vanilla app (no frontend framework), to keep the emphasis on Vite and simplicity. And uses TypeScript to showcase that feature.
 
 ### Structure
 
